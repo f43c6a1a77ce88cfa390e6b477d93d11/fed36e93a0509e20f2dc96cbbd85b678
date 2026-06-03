@@ -1,0 +1,27 @@
+{
+  "description": "Text editável",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Brasil"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Viral"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

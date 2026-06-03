@@ -1,0 +1,33 @@
+{
+  "description": "Trend famosa",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "fy"
+    },
+    {
+      "name": "música"
+    },
+    {
+      "name": "lucas"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "letradamúsica"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": " 3/4",
+  "type": "FREE",
+  "view": 0
+}

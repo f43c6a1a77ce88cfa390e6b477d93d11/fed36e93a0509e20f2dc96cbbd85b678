@@ -1,0 +1,30 @@
+{
+  "description": "Memory",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Memory"
+    },
+    {
+      "name": "Chill"
+    },
+    {
+      "name": "Relax"
+    },
+    {
+      "name": "Old"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "1/1",
+  "type": "FREE",
+  "view": 0
+}

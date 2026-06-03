@@ -1,0 +1,30 @@
+{
+  "description": "Good Morning",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "morning"
+    },
+    {
+      "name": "Chill"
+    },
+    {
+      "name": "Relax"
+    },
+    {
+      "name": "Daily"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

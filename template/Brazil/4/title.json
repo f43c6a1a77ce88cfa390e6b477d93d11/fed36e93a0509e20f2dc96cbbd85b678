@@ -1,0 +1,33 @@
+{
+  "description": "Brasileira",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "brasil"
+    },
+    {
+      "name": "orgulhobrasileiro"
+    },
+    {
+      "name": "remixar"
+    },
+    {
+      "name": "5fotos"
+    },
+    {
+      "name": "menina"
+    },
+    {
+      "name": "tendência"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

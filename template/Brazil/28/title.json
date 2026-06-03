@@ -1,0 +1,33 @@
+{
+  "description": "bandeira do Brasil",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "música"
+    },
+    {
+      "name": "bater"
+    },
+    {
+      "name": "viral"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "brasil"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": " 3/4",
+  "type": "FREE",
+  "view": 0
+}

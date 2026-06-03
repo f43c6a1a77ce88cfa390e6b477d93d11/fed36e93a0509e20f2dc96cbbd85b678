@@ -1,0 +1,33 @@
+{
+  "description": "Camisa 10",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "brasil"
+    },
+    {
+      "name": "camisa10"
+    },
+    {
+      "name": "casal"
+    },
+    {
+      "name": "4fotos"
+    },
+    {
+      "name": "música"
+    },
+    {
+      "name": "tendência"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

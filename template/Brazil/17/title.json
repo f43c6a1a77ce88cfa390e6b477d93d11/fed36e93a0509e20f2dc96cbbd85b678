@@ -1,0 +1,30 @@
+{
+  "description": "6 photo",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Brasil"
+    },
+        {
+      "name": "Beauty"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "Viral"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}
