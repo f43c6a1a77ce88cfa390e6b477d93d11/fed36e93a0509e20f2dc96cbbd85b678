@@ -1,0 +1,36 @@
+{
+  "description": "Hiệu ứng chụp ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "chupanh"
+    },
+    {
+      "name": "2anh"
+    },
+    {
+      "name": "2photo"
+    },
+    {
+      "name": "polaroid"
+    },
+    {
+      "name": "camera"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

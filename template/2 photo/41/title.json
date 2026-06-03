@@ -1,0 +1,33 @@
+{
+  "description": "Sexy Lady",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Meme"
+    },
+    {
+      "name": "Fy"
+    },
+    {
+      "name": "Beat"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Sexy"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

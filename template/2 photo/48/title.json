@@ -1,0 +1,30 @@
+{
+  "description": "Day Cute",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Frame"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "Relax"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
