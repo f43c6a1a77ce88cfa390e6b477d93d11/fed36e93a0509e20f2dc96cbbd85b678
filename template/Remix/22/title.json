@@ -1,0 +1,27 @@
+{
+  "description": "LaLaLa Remix",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "BeatSync"
+    },
+    {
+      "name": "LaLaLa"
+    },
+    {
+      "name": "9Photo"
+    },
+    {
+      "name": "TopTreding"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

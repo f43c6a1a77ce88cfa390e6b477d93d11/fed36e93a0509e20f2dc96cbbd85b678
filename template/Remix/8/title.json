@@ -1,0 +1,36 @@
+{
+  "description": "Nhạc Thái lay la lay",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "nhacthai"
+    },
+    {
+      "name": "trend"
+    },
+    {
+      "name": "mauvideo"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "2photo"
+    },
+    {
+      "name": "xuhuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,36 @@
+{
+  "description": "bốc bát họ",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "bocbatho"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "giat"
+    },
+    {
+      "name": "soidong"
+    },
+    {
+      "name": "chay"
+    },
+    {
+      "name": "lyrics"
+    },
+    {
+      "name": "xuhuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
