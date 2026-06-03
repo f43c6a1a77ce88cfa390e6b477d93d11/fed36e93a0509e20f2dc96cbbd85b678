@@ -1,0 +1,36 @@
+{
+  "description": "Beat 2 ảnh caption xịn",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "caption"
+    },
+    {
+      "name": "cachchoi"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "meme"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

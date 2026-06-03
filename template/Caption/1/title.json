@@ -1,0 +1,36 @@
+{
+  "description": "Caption đăng Facebook Phần 1",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "caption"
+    },
+    {
+      "name": "facebook"
+    },
+    {
+      "name": "haihuoc"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "vuive"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

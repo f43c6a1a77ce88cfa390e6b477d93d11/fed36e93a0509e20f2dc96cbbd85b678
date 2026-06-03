@@ -1,0 +1,162 @@
+{
+  "description": "Caption Story",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Selflove"
+    },
+    {
+      "name": "Life"
+    },
+    {
+      "name": "Relax"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "Cần phải trưởng thành thì...",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "Love"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "Beat 2 ảnh caption xịn",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "caption"
+    },
+    {
+      "name": "cachchoi"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "meme"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "Trẻ tuổi, dư tiền",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "tretuoi"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "deptrai"
+    },
+    {
+      "name": "caption"
+    },
+    {
+      "name": "giatanh"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "I love myself but...",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Love"
+    },
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Myself"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

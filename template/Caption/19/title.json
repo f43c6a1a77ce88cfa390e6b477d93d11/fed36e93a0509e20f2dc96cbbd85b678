@@ -1,0 +1,30 @@
+{
+  "description": "Yêu em thì kiss",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Love"
+    },
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

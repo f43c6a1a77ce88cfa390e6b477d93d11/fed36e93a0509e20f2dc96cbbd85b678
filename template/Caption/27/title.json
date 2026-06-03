@@ -1,0 +1,33 @@
+{
+  "description": "Sản phẩm này hay dỗi",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "trendmoi"
+    },
+    {
+      "name": "cute"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "sticker"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

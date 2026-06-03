@@ -1,0 +1,30 @@
+{
+  "description": "Hãy cứ là chính mình...",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Life"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
