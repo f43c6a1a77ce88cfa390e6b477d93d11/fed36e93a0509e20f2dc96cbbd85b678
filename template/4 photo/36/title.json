@@ -1,0 +1,36 @@
+{
+  "description": "Màu film 4 ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "film"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "showanh"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "codien"
+    },
+    {
+      "name": "vintage"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}
