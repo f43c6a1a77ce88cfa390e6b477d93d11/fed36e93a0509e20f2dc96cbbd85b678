@@ -1,0 +1,30 @@
+{
+  "description": "Trip Phan Thiet",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Trip"
+    },
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "Life"
+    },
+    {
+      "name": "Relax"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

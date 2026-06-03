@@ -1,0 +1,30 @@
+{
+  "description": "Trip Story",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Trip"
+    },
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

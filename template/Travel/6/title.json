@@ -1,0 +1,36 @@
+{
+  "description": "Phú Yên Memory",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "phu_yen"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "journey"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "showanh"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

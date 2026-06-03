@@ -1,0 +1,39 @@
+{
+  "description": "A day in summer",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "travel"
+    },
+    {
+      "name": "collage"
+    },
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "ghepanh"
+    },
+    {
+      "name": "summer"
+    },
+    {
+      "name": "khunganh"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

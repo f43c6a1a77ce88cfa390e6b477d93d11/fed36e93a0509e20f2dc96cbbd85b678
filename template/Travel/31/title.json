@@ -1,0 +1,36 @@
+{
+  "description": "Travel with me",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "travel"
+    },
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "tuyet"
+    },
+    {
+      "name": "5anh"
+    },
+    {
+      "name": "color"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

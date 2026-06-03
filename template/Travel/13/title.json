@@ -1,0 +1,36 @@
+{
+  "description": "Summer trip",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "summer"
+    },
+    {
+      "name": "ghepanh"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "vuive"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

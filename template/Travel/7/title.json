@@ -1,0 +1,36 @@
+{
+  "description": "Sài Gòn Tour",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "saigon"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "journey"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "review"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

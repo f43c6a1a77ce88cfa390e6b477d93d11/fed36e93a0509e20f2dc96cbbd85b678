@@ -1,0 +1,30 @@
+{
+  "description": "Summer time",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "Trip"
+    },
+    {
+      "name": "Summer"
+    },
+    {
+      "name": "Holiday"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

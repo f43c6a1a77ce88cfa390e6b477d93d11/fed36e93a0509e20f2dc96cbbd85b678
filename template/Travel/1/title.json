@@ -1,0 +1,105 @@
+{
+  "description": "Bà Nà Hill",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "banahills"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "journey"
+    },
+    {
+      "name": "DaNang"
+    },
+    {
+      "name": "review"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "Check in du lịch",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "PhuYen"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "journey"
+    },
+    {
+      "name": "review"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+},
+{
+  "description": "Đà Lạt",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dulich"
+    },
+    {
+      "name": "DaLat"
+    },
+    {
+      "name": "travel"
+    },
+    {
+      "name": "journey"
+    },
+    {
+      "name": "Collage"
+    },
+    {
+      "name": "review"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

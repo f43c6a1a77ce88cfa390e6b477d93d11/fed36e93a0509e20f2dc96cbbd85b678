@@ -1,0 +1,30 @@
+{
+  "description": "Memory",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Memory"
+    },
+    {
+      "name": "Trip"
+    },
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "1/1",
+  "type": "FREE",
+  "view": 0
+}
