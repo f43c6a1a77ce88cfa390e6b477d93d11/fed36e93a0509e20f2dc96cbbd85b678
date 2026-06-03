@@ -1,0 +1,33 @@
+{
+  "description": "Beat 4 ảnh cháy",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "beat"
+    },
+    {
+      "name": "giatgiat"
+    },
+    {
+      "name": "nhachay"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "chay"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

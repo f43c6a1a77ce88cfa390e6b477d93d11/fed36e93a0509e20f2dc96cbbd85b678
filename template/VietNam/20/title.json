@@ -1,0 +1,27 @@
+{
+  "description": "Công Ty TNHH Ba Mẹ Tao",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "HaiHuoc"
+    },
+    {
+      "name": "VideoTroll"
+    },
+    {
+      "name": "7anh"
+    },
+    {
+      "name": "XuHuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

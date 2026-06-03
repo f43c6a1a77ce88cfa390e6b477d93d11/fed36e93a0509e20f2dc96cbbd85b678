@@ -1,0 +1,30 @@
+{
+  "description": "Mẫu Năm Kỷ niệm + 2 Ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "BeatBocChay"
+    },
+    {
+      "name": "2Anh"
+    },
+    {
+      "name": "KyNiem"
+    },
+    {
+      "name": "SieuNgau"
+    },
+    {
+      "name": "XuHuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "1/1",
+  "type": "FREE",
+  "view": 0
+}

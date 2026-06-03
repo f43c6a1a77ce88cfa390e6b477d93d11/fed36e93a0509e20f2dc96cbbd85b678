@@ -1,0 +1,30 @@
+{
+  "description": "Bạn bè tri kỷ",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Caption"
+    },
+    {
+      "name": "Friend"
+    },
+    {
+      "name": "Meme"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

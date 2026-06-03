@@ -1,0 +1,36 @@
+{
+  "description": "Khung đáng yêu",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "story"
+    },
+    {
+      "name": "selfie"
+    },
+    {
+      "name": "xh"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

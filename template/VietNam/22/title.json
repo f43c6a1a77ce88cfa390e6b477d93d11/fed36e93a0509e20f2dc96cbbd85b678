@@ -1,0 +1,36 @@
+{
+  "description": "2 ảnh nhẹ nhàng | Nhạc cute",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "cute"
+    },
+    {
+      "name": "2anh"
+    },
+    {
+      "name": "tinhyeu"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "nhenhang"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "xuhuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Mẫu Biến Hình + 2 Ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "BeatBocChay"
+    },
+    {
+      "name": "3Anh"
+    },
+    {
+      "name": "BienHinh"
+    },
+    {
+      "name": "SieuNgau"
+    },
+    {
+      "name": "XuHuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

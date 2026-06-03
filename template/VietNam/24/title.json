@@ -1,0 +1,36 @@
+{
+  "description": "1 ảnh + lyrics",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "lyrics"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "loibaihat"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "nhiethuyet"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

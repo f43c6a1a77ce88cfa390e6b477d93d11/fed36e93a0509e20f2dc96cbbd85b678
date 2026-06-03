@@ -1,0 +1,36 @@
+{
+  "description": "FilmCam_1 ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "chotnhobaonangtho"
+    },
+    {
+      "name": "maufilm"
+    },
+    {
+      "name": "codien"
+    },
+    {
+      "name": "chill"
+    },
+    {
+      "name": "chinhmau"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "xuhuong"
+    }
+  ],
+  "id": 1,
+  "ratio": "1/1",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Mẫu 2 ảnh nhẹ nhàng",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "ghepanh"
+    },
+    {
+      "name": "story"
+    },
+    {
+      "name": "2anh"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

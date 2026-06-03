@@ -1,0 +1,36 @@
+{
+  "description": "Nếu anh không thích sự cute này",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Fy"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "hottrend"
+    },
+    {
+      "name": "cute"
+    },
+    {
+      "name": "fyp"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
