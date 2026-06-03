@@ -1,0 +1,36 @@
+{
+  "description": "Chúc mừng sinh nhật bạn thân",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "sinhnhat"
+    },
+    {
+      "name": "birthday"
+    },
+    {
+      "name": "sinhnhatvuive"
+    },
+    {
+      "name": "happybirthday"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "banthan"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,39 @@
+{
+  "description": "Happy Birthday",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "sinhnhat"
+    },
+    {
+      "name": "chucmungsinhnhat"
+    },
+    {
+      "name": "birthday"
+    },
+    {
+      "name": "happy"
+    },
+    {
+      "name": "vuive"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
