@@ -1,0 +1,33 @@
+{
+  "description": "story frame",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "story"
+    },
+    {
+      "name": "frame"
+    },
+    {
+      "name": "collage"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "memory"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Phonic song",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "new"
+    },
+    {
+      "name": "lyrics"
+    },
+    {
+      "name": "2photos"
+    },
+    {
+      "name": "phonic"
+    },
+    {
+      "name": "remix"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

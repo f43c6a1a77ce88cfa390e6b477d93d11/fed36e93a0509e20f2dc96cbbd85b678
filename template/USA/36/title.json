@@ -1,0 +1,27 @@
+{
+  "description": "Laxed Siren Beat",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "BeatSync"
+    },
+    {
+      "name": "LaxedSiren"
+    },
+    {
+      "name": "15Photo"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

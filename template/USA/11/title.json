@@ -1,0 +1,33 @@
+{
+  "description": "Every body wants to be like u",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "lyric"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "chill"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

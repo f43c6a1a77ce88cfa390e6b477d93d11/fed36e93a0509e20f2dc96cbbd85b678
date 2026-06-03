@@ -1,0 +1,30 @@
+{
+  "description": "Daily Life",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Daily"
+    },
+    {
+      "name": "Cute"
+    },
+    {
+      "name": "Vlog"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

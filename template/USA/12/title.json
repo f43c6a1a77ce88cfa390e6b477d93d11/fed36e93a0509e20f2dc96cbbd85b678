@@ -1,0 +1,33 @@
+{
+  "description": "Story + color",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "story"
+    },
+    {
+      "name": "collage"
+    },
+    {
+      "name": "frame"
+    },
+    {
+      "name": "mood"
+    },
+    {
+      "name": "chill"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}
