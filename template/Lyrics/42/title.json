@@ -1,0 +1,30 @@
+{
+  "description": "Never Goodbye",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "nct"
+    },
+    {
+      "name": "nevergoodbye"
+    },
+    {
+      "name": "cute"
+    },
+    {
+      "name": "happy"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

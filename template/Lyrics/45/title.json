@@ -1,0 +1,36 @@
+{
+  "description": "love me, love me",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "love"
+    },
+    {
+      "name": "cute"
+    },
+    {
+      "name": "lyrics"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "5photo"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
