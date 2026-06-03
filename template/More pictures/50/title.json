@@ -1,0 +1,39 @@
+{
+  "description": "Thanh xuân",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "thanhxuan"
+    },
+    {
+      "name": "muatotnghiep"
+    },
+    {
+      "name": "memory"
+    },
+    {
+      "name": "kyniem"
+    },
+    {
+      "name": "tuoitre"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "friend"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "4/3",
+  "type": "FREE",
+  "view": 0
+}

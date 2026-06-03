@@ -1,0 +1,33 @@
+{
+  "description": "Collage Beauty",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Collage"
+    },
+    {
+      "name": "Beauty"
+    },
+    {
+      "name": "Blink"
+    },
+    {
+      "name": "Fyp"
+    },
+    {
+      "name": "Viral"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
