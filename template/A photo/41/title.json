@@ -1,0 +1,39 @@
+{
+  "description": "Film story",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "aphoto"
+    },
+    {
+      "name": "film"
+    },
+    {
+      "name": "frame"
+    },
+    {
+      "name": "color"
+    },
+    {
+      "name": "mau"
+    },
+    {
+      "name": "codien"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

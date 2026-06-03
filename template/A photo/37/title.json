@@ -1,0 +1,36 @@
+{
+  "description": "Thay đổi màu ảnh",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "color"
+    },
+    {
+      "name": "filter"
+    },
+    {
+      "name": "mauanh"
+    },
+    {
+      "name": "boloc"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

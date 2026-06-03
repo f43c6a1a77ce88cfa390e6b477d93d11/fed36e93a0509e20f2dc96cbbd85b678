@@ -1,0 +1,36 @@
+{
+  "description": "Cậu ăn gì mà dễ thương quá dạaa",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "dethuong"
+    },
+    {
+      "name": "dangyeu"
+    },
+    {
+      "name": "cute"
+    },
+    {
+      "name": "lyrics"
+    },
+    {
+      "name": "fy"
+    },
+    {
+      "name": "xuhuong"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}
