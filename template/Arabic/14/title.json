@@ -1,0 +1,33 @@
+{
+  "description": "Money beat + 6 photos",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "money"
+    },
+    {
+      "name": "lisa"
+    },
+    {
+      "name": "beat"
+    },
+    {
+      "name": "6photos"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "3/4",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Cool beat + A photo",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "beat"
+    },
+    {
+      "name": "aphoto"
+    },
+    {
+      "name": "effect"
+    },
+    {
+      "name": "meme"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

@@ -1,0 +1,30 @@
+{
+  "description": "Summer",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "Beach"
+    },
+    {
+      "name": "Film"
+    },
+    {
+      "name": "Retro"
+    },
+    {
+      "name": "Story"
+    },
+    {
+      "name": "Trend"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}

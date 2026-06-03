@@ -1,0 +1,36 @@
+{
+  "description": "Travel Dubai",
+  "download": 1,
+  "favorite": [
+    {
+      "deviceId": "1"
+    }
+  ],
+  "hashtag": [
+    {
+      "name": "travel"
+    },
+    {
+      "name": "dubai"
+    },
+    {
+      "name": "mood"
+    },
+    {
+      "name": "chill"
+    },
+    {
+      "name": "music"
+    },
+    {
+      "name": "viral"
+    },
+    {
+      "name": "Trending"
+    }
+  ],
+  "id": 1,
+  "ratio": "9/16",
+  "type": "FREE",
+  "view": 0
+}
